@@ -1,6 +1,6 @@
 ﻿namespace ProyectoDiversos
 {
-    partial class Form1
+    partial class Calculadora
     {
         /// <summary>
         ///  Required designer variable.
@@ -31,12 +31,12 @@
             label1 = new Label();
             label2 = new Label();
             label3 = new Label();
-            textBox1 = new TextBox();
-            textBox2 = new TextBox();
-            textBox3 = new TextBox();
+            segundoValor = new TextBox();
+            resultado = new TextBox();
             pictureBox1 = new PictureBox();
             pictureBox2 = new PictureBox();
             pictureBox3 = new PictureBox();
+            primerValor = new TextBox();
             ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox2).BeginInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox3).BeginInit();
@@ -74,52 +74,61 @@
             label3.Text = "Resuldato";
             label3.Click += label3_Click;
             // 
-            // textBox1
+            // segundoValor
             // 
-            textBox1.Location = new Point(384, 89);
-            textBox1.Name = "textBox1";
-            textBox1.Size = new Size(160, 23);
-            textBox1.TabIndex = 3;
+            segundoValor.Location = new Point(384, 155);
+            segundoValor.Name = "segundoValor";
+            segundoValor.Size = new Size(160, 23);
+            segundoValor.TabIndex = 4;
             // 
-            // textBox2
+            // resultado
             // 
-            textBox2.Location = new Point(384, 155);
-            textBox2.Name = "textBox2";
-            textBox2.Size = new Size(160, 23);
-            textBox2.TabIndex = 4;
-            // 
-            // textBox3
-            // 
-            textBox3.Location = new Point(384, 236);
-            textBox3.Name = "textBox3";
-            textBox3.Size = new Size(160, 23);
-            textBox3.TabIndex = 5;
+            resultado.Location = new Point(384, 236);
+            resultado.Name = "resultado";
+            resultado.Size = new Size(160, 23);
+            resultado.TabIndex = 5;
             // 
             // pictureBox1
             // 
+            pictureBox1.BackgroundImage = Properties.Resources.WhatsApp_Image_2024_08_26_at_8_01_22_PM__9_;
+            pictureBox1.BackgroundImageLayout = ImageLayout.Stretch;
             pictureBox1.Location = new Point(363, 301);
             pictureBox1.Name = "pictureBox1";
             pictureBox1.Size = new Size(100, 50);
             pictureBox1.TabIndex = 6;
             pictureBox1.TabStop = false;
+            pictureBox1.Click += pictureBox1_Click;
             // 
             // pictureBox2
             // 
+            pictureBox2.BackgroundImage = Properties.Resources.WhatsApp_Image_2024_08_26_at_8_01_21_PM;
+            pictureBox2.BackgroundImageLayout = ImageLayout.Stretch;
             pictureBox2.Location = new Point(177, 301);
             pictureBox2.Name = "pictureBox2";
             pictureBox2.Size = new Size(100, 50);
             pictureBox2.TabIndex = 7;
             pictureBox2.TabStop = false;
+            pictureBox2.Click += pictureBox2_Click;
             // 
             // pictureBox3
             // 
+            pictureBox3.BackgroundImage = Properties.Resources.WhatsApp_Image_2024_08_26_at_8_01_22_PM__13_;
+            pictureBox3.BackgroundImageLayout = ImageLayout.Stretch;
             pictureBox3.Location = new Point(551, 301);
             pictureBox3.Name = "pictureBox3";
             pictureBox3.Size = new Size(100, 50);
             pictureBox3.TabIndex = 8;
             pictureBox3.TabStop = false;
+            pictureBox3.Click += pictureBox3_Click;
             // 
-            // Form1
+            // primerValor
+            // 
+            primerValor.Location = new Point(384, 89);
+            primerValor.Name = "primerValor";
+            primerValor.Size = new Size(160, 23);
+            primerValor.TabIndex = 3;
+            // 
+            // Calculadora
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
@@ -127,13 +136,13 @@
             Controls.Add(pictureBox3);
             Controls.Add(pictureBox2);
             Controls.Add(pictureBox1);
-            Controls.Add(textBox3);
-            Controls.Add(textBox2);
-            Controls.Add(textBox1);
+            Controls.Add(resultado);
+            Controls.Add(segundoValor);
+            Controls.Add(primerValor);
             Controls.Add(label3);
             Controls.Add(label2);
             Controls.Add(label1);
-            Name = "Form1";
+            Name = "Calculadora";
             ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox2).EndInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox3).EndInit();
@@ -146,11 +155,11 @@
         private Label label1;
         private Label label2;
         private Label label3;
-        private TextBox textBox1;
-        private TextBox textBox2;
-        private TextBox textBox3;
+        private TextBox segundoValor;
+        private TextBox resultado;
         private PictureBox pictureBox1;
         private PictureBox pictureBox2;
         private PictureBox pictureBox3;
+        private TextBox primerValor;
     }
 }

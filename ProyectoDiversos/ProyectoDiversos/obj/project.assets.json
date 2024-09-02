@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cesar\\Desktop\\Programacion II\\ProyectoDiversos\\ProyectoDiversos\\ProyectoDiversos.csproj",
+      "projectUniqueName": "C:\\Users\\cesar\\Desktop\\Programacion II\\csharp_practica_p2\\ProyectoDiversos\\ProyectoDiversos\\ProyectoDiversos.csproj",
       "projectName": "ProyectoDiversos",
-      "projectPath": "C:\\Users\\cesar\\Desktop\\Programacion II\\ProyectoDiversos\\ProyectoDiversos\\ProyectoDiversos.csproj",
+      "projectPath": "C:\\Users\\cesar\\Desktop\\Programacion II\\csharp_practica_p2\\ProyectoDiversos\\ProyectoDiversos\\ProyectoDiversos.csproj",
       "packagesPath": "C:\\Users\\cesar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\cesar\\Desktop\\Programacion II\\ProyectoDiversos\\ProyectoDiversos\\obj\\",
+      "outputPath": "C:\\Users\\cesar\\Desktop\\Programacion II\\csharp_practica_p2\\ProyectoDiversos\\ProyectoDiversos\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

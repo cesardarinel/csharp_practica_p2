@@ -157,6 +157,8 @@
             // 
             // pictureBox1
             // 
+            pictureBox1.BackgroundImage = Properties.Resources.WhatsApp_Image_2024_08_26_at_8_01_21_PM;
+            pictureBox1.BackgroundImageLayout = ImageLayout.Stretch;
             pictureBox1.Location = new Point(108, 377);
             pictureBox1.Name = "pictureBox1";
             pictureBox1.Size = new Size(52, 50);
@@ -165,7 +167,9 @@
             // 
             // pictureBox2
             // 
-            pictureBox2.Location = new Point(201, 377);
+            pictureBox2.BackgroundImage = Properties.Resources.WhatsApp_Image_2024_08_26_at_8_01_22_PM__11_;
+            pictureBox2.BackgroundImageLayout = ImageLayout.Stretch;
+            pictureBox2.Location = new Point(187, 377);
             pictureBox2.Name = "pictureBox2";
             pictureBox2.Size = new Size(52, 50);
             pictureBox2.TabIndex = 12;
@@ -173,6 +177,8 @@
             // 
             // pictureBox3
             // 
+            pictureBox3.BackgroundImage = Properties.Resources.WhatsApp_Image_2024_08_26_at_8_01_22_PM__2_;
+            pictureBox3.BackgroundImageLayout = ImageLayout.Stretch;
             pictureBox3.Location = new Point(270, 377);
             pictureBox3.Name = "pictureBox3";
             pictureBox3.Size = new Size(52, 50);
@@ -181,6 +187,8 @@
             // 
             // pictureBox4
             // 
+            pictureBox4.BackgroundImage = Properties.Resources.WhatsApp_Image_2024_08_26_at_8_01_22_PM__9_;
+            pictureBox4.BackgroundImageLayout = ImageLayout.Stretch;
             pictureBox4.Location = new Point(357, 377);
             pictureBox4.Name = "pictureBox4";
             pictureBox4.Size = new Size(52, 50);
@@ -189,6 +197,8 @@
             // 
             // pictureBox5
             // 
+            pictureBox5.BackgroundImage = Properties.Resources.WhatsApp_Image_2024_08_26_at_8_01_22_PM__4_;
+            pictureBox5.BackgroundImageLayout = ImageLayout.Stretch;
             pictureBox5.Location = new Point(443, 377);
             pictureBox5.Name = "pictureBox5";
             pictureBox5.Size = new Size(52, 50);
@@ -197,7 +207,9 @@
             // 
             // pictureBox6
             // 
-            pictureBox6.Location = new Point(530, 377);
+            pictureBox6.BackgroundImage = Properties.Resources.borrar;
+            pictureBox6.BackgroundImageLayout = ImageLayout.Stretch;
+            pictureBox6.Location = new Point(529, 377);
             pictureBox6.Name = "pictureBox6";
             pictureBox6.Size = new Size(52, 50);
             pictureBox6.TabIndex = 16;
@@ -205,11 +217,14 @@
             // 
             // pictureBox7
             // 
-            pictureBox7.Location = new Point(645, 377);
+            pictureBox7.BackgroundImage = Properties.Resources.WhatsApp_Image_2024_08_26_at_8_01_22_PM__13_;
+            pictureBox7.BackgroundImageLayout = ImageLayout.Stretch;
+            pictureBox7.Location = new Point(713, 377);
             pictureBox7.Name = "pictureBox7";
             pictureBox7.Size = new Size(52, 50);
             pictureBox7.TabIndex = 17;
             pictureBox7.TabStop = false;
+            pictureBox7.Click += pictureBox7_Click;
             // 
             // Notas
             // 
@@ -234,7 +249,9 @@
             Controls.Add(label3);
             Controls.Add(label2);
             Controls.Add(label1);
+            MaximizeBox = false;
             Name = "Notas";
+            StartPosition = FormStartPosition.CenterScreen;
             Text = "Notas";
             ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox2).EndInit();

@@ -14,6 +14,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ProyectoDiversos
-build_property.ProjectDir = C:\Users\cesar\Desktop\Programacion II\ProyectoDiversos\ProyectoDiversos\
+build_property.ProjectDir = C:\Users\cesar\Desktop\Programacion II\csharp_practica_p2\ProyectoDiversos\ProyectoDiversos\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

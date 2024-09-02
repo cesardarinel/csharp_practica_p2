@@ -25,11 +25,16 @@ namespace ProyectoDiversos
         private void pictureBox2_Click(object sender, EventArgs e)
         {
             this.Hide();
-            Menu menu = new Menu(); 
+            Menu menu = new Menu();
             menu.ShowDialog();
             this.Close();
 
 
+        }
+
+        private void pictureBox3_Click(object sender, EventArgs e)
+        {
+            this.Close();
         }
     }
 }

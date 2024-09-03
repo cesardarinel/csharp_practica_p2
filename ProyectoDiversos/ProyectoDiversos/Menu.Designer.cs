@@ -62,7 +62,7 @@
             radioButton3.TabIndex = 2;
             radioButton3.Text = "Suma";
             radioButton3.UseVisualStyleBackColor = true;
-            radioButton3.CheckedChanged += radioButton3_CheckedChanged;
+            radioButton3.Click += radioButton3_CheckedChanged;
             // 
             // radioButton2
             // 
@@ -73,7 +73,7 @@
             radioButton2.TabIndex = 1;
             radioButton2.Text = "Calificaciones";
             radioButton2.UseVisualStyleBackColor = true;
-            radioButton2.CheckedChanged += radioButton2_CheckedChanged;
+            radioButton2.Click += radioButton2_CheckedChanged;
             // 
             // radioButton1
             // 
@@ -84,12 +84,12 @@
             radioButton1.TabIndex = 0;
             radioButton1.Text = "Nomina";
             radioButton1.UseVisualStyleBackColor = true;
-            radioButton1.CheckedChanged += radioButton1_CheckedChanged;
+            radioButton1.Click += radioButton1_CheckedChanged;
             // 
             // groupBox2
             // 
             groupBox2.Controls.Add(radioButton6);
-            groupBox2.Location = new Point(422, 229);
+            groupBox2.Location = new Point(358, 229);
             groupBox2.Name = "groupBox2";
             groupBox2.Size = new Size(223, 155);
             groupBox2.TabIndex = 3;
@@ -109,7 +109,7 @@
             // 
             // groupBox3
             // 
-            groupBox3.Location = new Point(422, 54);
+            groupBox3.Location = new Point(358, 32);
             groupBox3.Name = "groupBox3";
             groupBox3.Size = new Size(223, 155);
             groupBox3.TabIndex = 4;
@@ -130,7 +130,7 @@
             // 
             button1.BackColor = Color.DarkSalmon;
             button1.Font = new Font("Segoe UI", 14.25F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            button1.Location = new Point(229, 401);
+            button1.Location = new Point(192, 401);
             button1.Name = "button1";
             button1.Size = new Size(200, 40);
             button1.TabIndex = 6;
@@ -142,7 +142,7 @@
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(724, 453);
+            ClientSize = new Size(623, 450);
             Controls.Add(button1);
             Controls.Add(groupBox4);
             Controls.Add(groupBox3);

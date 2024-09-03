@@ -76,16 +76,19 @@
             // 
             // segundoValor
             // 
-            segundoValor.Location = new Point(384, 155);
+            segundoValor.Font = new Font("Segoe UI", 9.75F, FontStyle.Bold);
+            segundoValor.Location = new Point(404, 156);
             segundoValor.Name = "segundoValor";
-            segundoValor.Size = new Size(160, 23);
+            segundoValor.Size = new Size(160, 25);
             segundoValor.TabIndex = 4;
             // 
             // resultado
             // 
-            resultado.Location = new Point(384, 236);
+            resultado.Enabled = false;
+            resultado.Font = new Font("Segoe UI", 9.75F, FontStyle.Bold);
+            resultado.Location = new Point(404, 237);
             resultado.Name = "resultado";
-            resultado.Size = new Size(160, 23);
+            resultado.Size = new Size(160, 25);
             resultado.TabIndex = 5;
             // 
             // pictureBox1
@@ -123,9 +126,10 @@
             // 
             // primerValor
             // 
-            primerValor.Location = new Point(384, 89);
+            primerValor.Font = new Font("Segoe UI", 9.75F, FontStyle.Bold);
+            primerValor.Location = new Point(404, 90);
             primerValor.Name = "primerValor";
-            primerValor.Size = new Size(160, 23);
+            primerValor.Size = new Size(160, 25);
             primerValor.TabIndex = 3;
             // 
             // Calculadora

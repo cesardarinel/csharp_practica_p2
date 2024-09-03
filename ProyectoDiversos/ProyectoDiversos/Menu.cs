@@ -32,7 +32,7 @@ namespace ProyectoDiversos
 
         private void radioButton2_CheckedChanged(object sender, EventArgs e)
         {
-            
+
             this.Hide();
             Notas nota = new Notas();
             nota.ShowDialog();
@@ -45,12 +45,17 @@ namespace ProyectoDiversos
             Calculadora calcular = new Calculadora();
             calcular.ShowDialog();
             this.Show();
-          
+
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
             this.Close();
+        }
+
+        private void radioButton3_CheckedChanged2(object sender, EventArgs e)
+        {
+
         }
     }
 }

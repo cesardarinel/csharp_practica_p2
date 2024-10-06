@@ -3,20 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\cesar\\Desktop\\Programacion II\\csharp_practica_p2\\ProyectoDiversos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DB40AD76-A812-4798-9B9B-3379F1B39034}|ProyectoDiversos\\ProyectoDiversos.csproj|c:\\users\\cesar\\desktop\\programacion ii\\csharp_practica_p2\\proyectodiversos\\proyectodiversos\\nomina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{DB40AD76-A812-4798-9B9B-3379F1B39034}|ProyectoDiversos\\ProyectoDiversos.csproj|solutionrelative:proyectodiversos\\nomina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{39C903F7-A565-4082-BB33-7DCDC79FC4A5}|ProyectosDiversos\\ProyectosDiversos.csproj|c:\\users\\cesar\\desktop\\programacion ii\\csharp_practica_p2\\proyectodiversos\\proyectosdiversos\\entrada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39C903F7-A565-4082-BB33-7DCDC79FC4A5}|ProyectosDiversos\\ProyectosDiversos.csproj|solutionrelative:proyectosdiversos\\entrada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DB40AD76-A812-4798-9B9B-3379F1B39034}|ProyectoDiversos\\ProyectoDiversos.csproj|c:\\users\\cesar\\desktop\\programacion ii\\csharp_practica_p2\\proyectodiversos\\proyectodiversos\\notas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{DB40AD76-A812-4798-9B9B-3379F1B39034}|ProyectoDiversos\\ProyectoDiversos.csproj|solutionrelative:proyectodiversos\\notas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{39C903F7-A565-4082-BB33-7DCDC79FC4A5}|ProyectosDiversos\\ProyectosDiversos.csproj|c:\\users\\cesar\\desktop\\programacion ii\\csharp_practica_p2\\proyectodiversos\\proyectosdiversos\\entrada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{39C903F7-A565-4082-BB33-7DCDC79FC4A5}|ProyectosDiversos\\ProyectosDiversos.csproj|solutionrelative:proyectosdiversos\\entrada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DB40AD76-A812-4798-9B9B-3379F1B39034}|ProyectoDiversos\\ProyectoDiversos.csproj|c:\\users\\cesar\\desktop\\programacion ii\\csharp_practica_p2\\proyectodiversos\\proyectodiversos\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{DB40AD76-A812-4798-9B9B-3379F1B39034}|ProyectoDiversos\\ProyectoDiversos.csproj|solutionrelative:proyectodiversos\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{39C903F7-A565-4082-BB33-7DCDC79FC4A5}|ProyectosDiversos\\ProyectosDiversos.csproj|C:\\Users\\cesar\\Desktop\\Programacion II\\csharp_practica_p2\\ProyectoDiversos\\proyectosdiversos\\crystalreport1.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}",
+      "RelativeMoniker": "D:0:0:{39C903F7-A565-4082-BB33-7DCDC79FC4A5}|ProyectosDiversos\\ProyectosDiversos.csproj|solutionrelative:proyectosdiversos\\crystalreport1.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DB40AD76-A812-4798-9B9B-3379F1B39034}|ProyectoDiversos\\ProyectoDiversos.csproj|C:\\Users\\cesar\\Desktop\\Programacion II\\csharp_practica_p2\\ProyectoDiversos\\proyectodiversos\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{DB40AD76-A812-4798-9B9B-3379F1B39034}|ProyectoDiversos\\ProyectoDiversos.csproj|solutionrelative:proyectodiversos\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{39C903F7-A565-4082-BB33-7DCDC79FC4A5}|ProyectosDiversos\\ProyectosDiversos.csproj|C:\\Users\\cesar\\Desktop\\Programacion II\\csharp_practica_p2\\ProyectoDiversos\\proyectosdiversos\\crystalreport2.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}",
+      "RelativeMoniker": "D:0:0:{39C903F7-A565-4082-BB33-7DCDC79FC4A5}|ProyectosDiversos\\ProyectosDiversos.csproj|solutionrelative:proyectosdiversos\\crystalreport2.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39C903F7-A565-4082-BB33-7DCDC79FC4A5}|ProyectosDiversos\\ProyectosDiversos.csproj|c:\\users\\cesar\\desktop\\programacion ii\\csharp_practica_p2\\proyectodiversos\\proyectosdiversos\\nomina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39C903F7-A565-4082-BB33-7DCDC79FC4A5}|ProyectosDiversos\\ProyectosDiversos.csproj|solutionrelative:proyectosdiversos\\nomina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39C903F7-A565-4082-BB33-7DCDC79FC4A5}|ProyectosDiversos\\ProyectosDiversos.csproj|C:\\Users\\cesar\\Desktop\\Programacion II\\csharp_practica_p2\\ProyectoDiversos\\proyectosdiversos\\nomina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{39C903F7-A565-4082-BB33-7DCDC79FC4A5}|ProyectosDiversos\\ProyectosDiversos.csproj|solutionrelative:proyectosdiversos\\nomina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39C903F7-A565-4082-BB33-7DCDC79FC4A5}|ProyectosDiversos\\ProyectosDiversos.csproj|C:\\Users\\cesar\\Desktop\\Programacion II\\csharp_practica_p2\\ProyectoDiversos\\proyectosdiversos\\notas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39C903F7-A565-4082-BB33-7DCDC79FC4A5}|ProyectosDiversos\\ProyectosDiversos.csproj|solutionrelative:proyectosdiversos\\notas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39C903F7-A565-4082-BB33-7DCDC79FC4A5}|ProyectosDiversos\\ProyectosDiversos.csproj|C:\\Users\\cesar\\Desktop\\Programacion II\\csharp_practica_p2\\ProyectoDiversos\\proyectosdiversos\\notas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{39C903F7-A565-4082-BB33-7DCDC79FC4A5}|ProyectosDiversos\\ProyectosDiversos.csproj|solutionrelative:proyectosdiversos\\notas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39C903F7-A565-4082-BB33-7DCDC79FC4A5}|ProyectosDiversos\\ProyectosDiversos.csproj|C:\\Users\\cesar\\Desktop\\Programacion II\\csharp_practica_p2\\ProyectoDiversos\\proyectosdiversos\\reportenotas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{39C903F7-A565-4082-BB33-7DCDC79FC4A5}|ProyectosDiversos\\ProyectosDiversos.csproj|solutionrelative:proyectosdiversos\\reportenotas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39C903F7-A565-4082-BB33-7DCDC79FC4A5}|ProyectosDiversos\\ProyectosDiversos.csproj|C:\\Users\\cesar\\Desktop\\Programacion II\\csharp_practica_p2\\ProyectoDiversos\\proyectosdiversos\\reportenomina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{39C903F7-A565-4082-BB33-7DCDC79FC4A5}|ProyectosDiversos\\ProyectosDiversos.csproj|solutionrelative:proyectosdiversos\\reportenomina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,55 +50,125 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Notas.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\cesar\\Desktop\\Programacion II\\csharp_practica_p2\\ProyectoDiversos\\ProyectoDiversos\\Notas.cs",
-              "RelativeDocumentMoniker": "ProyectoDiversos\\Notas.cs",
-              "ToolTip": "C:\\Users\\cesar\\Desktop\\Programacion II\\csharp_practica_p2\\ProyectoDiversos\\ProyectoDiversos\\Notas.cs [Design]",
-              "RelativeToolTip": "ProyectoDiversos\\Notas.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-03T02:25:18.906Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Calculadora.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\cesar\\Desktop\\Programacion II\\csharp_practica_p2\\ProyectoDiversos\\ProyectoDiversos\\Calculadora.cs",
-              "RelativeDocumentMoniker": "ProyectoDiversos\\Calculadora.cs",
-              "ToolTip": "C:\\Users\\cesar\\Desktop\\Programacion II\\csharp_practica_p2\\ProyectoDiversos\\ProyectoDiversos\\Calculadora.cs [Design]",
-              "RelativeToolTip": "ProyectoDiversos\\Calculadora.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-03T02:23:51.387Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Nomina.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\cesar\\Desktop\\Programacion II\\csharp_practica_p2\\ProyectoDiversos\\ProyectoDiversos\\Nomina.cs",
-              "RelativeDocumentMoniker": "ProyectoDiversos\\Nomina.cs",
-              "ToolTip": "C:\\Users\\cesar\\Desktop\\Programacion II\\csharp_practica_p2\\ProyectoDiversos\\ProyectoDiversos\\Nomina.cs [Design]",
-              "RelativeToolTip": "ProyectoDiversos\\Nomina.cs [Design]",
+              "Title": "Entrada.cs",
+              "DocumentMoniker": "C:\\Users\\cesar\\Desktop\\Programacion II\\csharp_practica_p2\\ProyectoDiversos\\ProyectosDiversos\\Entrada.cs",
+              "RelativeDocumentMoniker": "ProyectosDiversos\\Entrada.cs",
+              "ToolTip": "C:\\Users\\cesar\\Desktop\\Programacion II\\csharp_practica_p2\\ProyectoDiversos\\ProyectosDiversos\\Entrada.cs",
+              "RelativeToolTip": "ProyectosDiversos\\Entrada.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBgAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-03T02:03:26.831Z",
+              "WhenOpened": "2024-10-04T23:35:28.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Entrada.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\cesar\\Desktop\\Programacion II\\csharp_practica_p2\\ProyectoDiversos\\ProyectosDiversos\\Entrada.cs",
+              "RelativeDocumentMoniker": "ProyectosDiversos\\Entrada.cs",
+              "ToolTip": "C:\\Users\\cesar\\Desktop\\Programacion II\\csharp_practica_p2\\ProyectoDiversos\\ProyectosDiversos\\Entrada.cs [Design]",
+              "RelativeToolTip": "ProyectosDiversos\\Entrada.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T23:35:23.603Z",
               "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Nomina.cs",
+              "DocumentMoniker": "C:\\Users\\cesar\\Desktop\\Programacion II\\csharp_practica_p2\\ProyectoDiversos\\ProyectosDiversos\\Nomina.cs",
+              "RelativeDocumentMoniker": "ProyectosDiversos\\Nomina.cs",
+              "ToolTip": "C:\\Users\\cesar\\Desktop\\Programacion II\\csharp_practica_p2\\ProyectoDiversos\\ProyectosDiversos\\Nomina.cs",
+              "RelativeToolTip": "ProyectosDiversos\\Nomina.cs",
+              "ViewState": "AgIAAPkAAAAAAAAAAAArwAYBAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T23:16:56.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Nomina.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\cesar\\Desktop\\Programacion II\\csharp_practica_p2\\ProyectoDiversos\\ProyectosDiversos\\Nomina.cs",
+              "RelativeDocumentMoniker": "ProyectosDiversos\\Nomina.cs",
+              "ToolTip": "C:\\Users\\cesar\\Desktop\\Programacion II\\csharp_practica_p2\\ProyectoDiversos\\ProyectosDiversos\\Nomina.cs [Design]",
+              "RelativeToolTip": "ProyectosDiversos\\Nomina.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T23:16:53.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Notas.cs",
+              "DocumentMoniker": "C:\\Users\\cesar\\Desktop\\Programacion II\\csharp_practica_p2\\ProyectoDiversos\\ProyectosDiversos\\Notas.cs",
+              "RelativeDocumentMoniker": "ProyectosDiversos\\Notas.cs",
+              "ToolTip": "C:\\Users\\cesar\\Desktop\\Programacion II\\csharp_practica_p2\\ProyectoDiversos\\ProyectosDiversos\\Notas.cs",
+              "RelativeToolTip": "ProyectosDiversos\\Notas.cs",
+              "ViewState": "AgIAACwBAAAAAAAAAAAiwDwBAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T23:16:30.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Notas.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\cesar\\Desktop\\Programacion II\\csharp_practica_p2\\ProyectoDiversos\\ProyectosDiversos\\Notas.cs",
+              "RelativeDocumentMoniker": "ProyectosDiversos\\Notas.cs",
+              "ToolTip": "C:\\Users\\cesar\\Desktop\\Programacion II\\csharp_practica_p2\\ProyectoDiversos\\ProyectosDiversos\\Notas.cs [Design]",
+              "RelativeToolTip": "ProyectosDiversos\\Notas.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T23:16:26.671Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Menu.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\cesar\\Desktop\\Programacion II\\csharp_practica_p2\\ProyectoDiversos\\ProyectoDiversos\\Menu.cs",
-              "RelativeDocumentMoniker": "ProyectoDiversos\\Menu.cs",
-              "ToolTip": "C:\\Users\\cesar\\Desktop\\Programacion II\\csharp_practica_p2\\ProyectoDiversos\\ProyectoDiversos\\Menu.cs [Design]",
-              "RelativeToolTip": "ProyectoDiversos\\Menu.cs [Design]",
+              "Title": "CrystalReport2.rpt",
+              "DocumentMoniker": "C:\\Users\\cesar\\Desktop\\Programacion II\\csharp_practica_p2\\ProyectoDiversos\\ProyectosDiversos\\CrystalReport2.rpt",
+              "RelativeDocumentMoniker": "ProyectosDiversos\\CrystalReport2.rpt",
+              "ToolTip": "C:\\Users\\cesar\\Desktop\\Programacion II\\csharp_practica_p2\\ProyectoDiversos\\ProyectosDiversos\\CrystalReport2.rpt",
+              "RelativeToolTip": "ProyectosDiversos\\CrystalReport2.rpt",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAIdSURBVDhPpZJNaBNBFMf/M7ub2NhajSDiwS96CbY2BykojaD0oF5s0YPgQYReLHgpeNCLYv0AexNRb1VUAkJcPXgQEUG89BIaxI9gqzGxH6QmXTef3Wx2nJkmNev25g8ebx7z3n/ezBv8F4wx0lhK7j6fYo3lmowMhl35HoRA3XGk/YvYW\u002BsA2vCrUEIwu1hEJltwmeDc8V5Plx4BAaXEY4J7LxLSt4q4BBS6Eiq8oGm3nXHZ1VCkS9pgfxc62/0yT\u002BASaNRLIWE6ieHB3H1EZsMyVhUKTXU37Yo0RZFeVQiuL14D1tnooBtQcEwcSO9d7aoVdefw5yFC2GG\u002BDsa/OTj228LYwmXejYrkzxkUsqZMNG0TfZkexA99lHETUqlYJ0rV5YEPqfKOG7Glo3MGRSTkx2T4JNp2\u002BzGfmMf3JzNAHijHarJIfz\u002BN0wMh2QoduRrVL9x6NqrWzUt3hjfjYMiHV1NVWNHHCJAOoMof3OBOt10T8XD24kOiv0uynFFkp8ZTrPv8NNs3\u002BpXtifawUmWZWbU6q9l16Z\u002B\u002BTXrHOHHzDPP7ND6iNvSHAtjYrkLTNDzqfQleBIU/rDhdeI1Po4l7JpyqDSTSDoKdPmwLqqhaNdh2vbHrxXWhidcZ9mXBj3yJYr3Pwf7tBnL5HLZu2YRA4O/nERzp2yVrXQJiIhWrdsUwy92/lorZyURqLP4p/YZv/eBXLK9ktQL8AbhJ7xVosbKmAAAAAElFTkSuQmCC",
+              "WhenOpened": "2024-10-04T23:15:43.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ReporteNotas.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\cesar\\Desktop\\Programacion II\\csharp_practica_p2\\ProyectoDiversos\\ProyectosDiversos\\ReporteNotas.cs",
+              "RelativeDocumentMoniker": "ProyectosDiversos\\ReporteNotas.cs",
+              "ToolTip": "C:\\Users\\cesar\\Desktop\\Programacion II\\csharp_practica_p2\\ProyectoDiversos\\ProyectosDiversos\\ReporteNotas.cs [Design]*",
+              "RelativeToolTip": "ProyectosDiversos\\ReporteNotas.cs [Design]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-02T03:03:06.13Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-10-04T23:15:22.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CrystalReport1.rpt",
+              "DocumentMoniker": "C:\\Users\\cesar\\Desktop\\Programacion II\\csharp_practica_p2\\ProyectoDiversos\\ProyectosDiversos\\CrystalReport1.rpt",
+              "RelativeDocumentMoniker": "ProyectosDiversos\\CrystalReport1.rpt",
+              "ToolTip": "C:\\Users\\cesar\\Desktop\\Programacion II\\csharp_practica_p2\\ProyectoDiversos\\ProyectosDiversos\\CrystalReport1.rpt",
+              "RelativeToolTip": "ProyectosDiversos\\CrystalReport1.rpt",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAIdSURBVDhPpZJNaBNBFMf/M7ub2NhajSDiwS96CbY2BykojaD0oF5s0YPgQYReLHgpeNCLYv0AexNRb1VUAkJcPXgQEUG89BIaxI9gqzGxH6QmXTef3Wx2nJkmNev25g8ebx7z3n/ezBv8F4wx0lhK7j6fYo3lmowMhl35HoRA3XGk/YvYW\u002BsA2vCrUEIwu1hEJltwmeDc8V5Plx4BAaXEY4J7LxLSt4q4BBS6Eiq8oGm3nXHZ1VCkS9pgfxc62/0yT\u002BASaNRLIWE6ieHB3H1EZsMyVhUKTXU37Yo0RZFeVQiuL14D1tnooBtQcEwcSO9d7aoVdefw5yFC2GG\u002BDsa/OTj228LYwmXejYrkzxkUsqZMNG0TfZkexA99lHETUqlYJ0rV5YEPqfKOG7Glo3MGRSTkx2T4JNp2\u002BzGfmMf3JzNAHijHarJIfz\u002BN0wMh2QoduRrVL9x6NqrWzUt3hjfjYMiHV1NVWNHHCJAOoMof3OBOt10T8XD24kOiv0uynFFkp8ZTrPv8NNs3\u002BpXtifawUmWZWbU6q9l16Z\u002B\u002BTXrHOHHzDPP7ND6iNvSHAtjYrkLTNDzqfQleBIU/rDhdeI1Po4l7JpyqDSTSDoKdPmwLqqhaNdh2vbHrxXWhidcZ9mXBj3yJYr3Pwf7tBnL5HLZu2YRA4O/nERzp2yVrXQJiIhWrdsUwy92/lorZyURqLP4p/YZv/eBXLK9ktQL8AbhJ7xVosbKmAAAAAElFTkSuQmCC",
+              "WhenOpened": "2024-10-04T23:09:11.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ReporteNomina.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\cesar\\Desktop\\Programacion II\\csharp_practica_p2\\ProyectoDiversos\\ProyectosDiversos\\ReporteNomina.cs",
+              "RelativeDocumentMoniker": "ProyectosDiversos\\ReporteNomina.cs",
+              "ToolTip": "C:\\Users\\cesar\\Desktop\\Programacion II\\csharp_practica_p2\\ProyectoDiversos\\ProyectosDiversos\\ReporteNomina.cs [Design]*",
+              "RelativeToolTip": "ProyectosDiversos\\ReporteNomina.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T23:08:40.522Z"
             }
           ]
         }

@@ -103,3 +103,10 @@ C:\Users\cesar\Desktop\Programacion II\csharp_practica_p2\ProyectoDiversos\Proye
 C:\Users\cesar\Desktop\Programacion II\csharp_practica_p2\ProyectoDiversos\ProyectosDiversos\obj\x86\Debug\ProyectosDiversos.pdb
 C:\Users\cesar\Desktop\Programacion II\csharp_practica_p2\ProyectoDiversos\ProyectosDiversos\obj\x86\Debug\ProyectosDiversos.ReporteNomina.resources
 C:\Users\cesar\Desktop\Programacion II\csharp_practica_p2\ProyectoDiversos\ProyectosDiversos\obj\x86\Debug\ProyectosDiversos.ReporteNotas.resources
+C:\Users\cesar\Desktop\Programacion II\csharp_practica_p2\ProyectoDiversos\ProyectosDiversos\bin\x86\Debug\ProyectosDiversos.exe.manifest
+C:\Users\cesar\Desktop\Programacion II\csharp_practica_p2\ProyectoDiversos\ProyectosDiversos\bin\x86\Debug\ProyectosDiversos.application
+C:\Users\cesar\Desktop\Programacion II\csharp_practica_p2\ProyectoDiversos\ProyectosDiversos\obj\x86\Debug\ProyectosDiversos.TrustInfo.xml
+C:\Users\cesar\Desktop\Programacion II\csharp_practica_p2\ProyectoDiversos\ProyectosDiversos\obj\x86\Debug\ProyectosDiversos.exe.manifest
+C:\Users\cesar\Desktop\Programacion II\csharp_practica_p2\ProyectoDiversos\ProyectosDiversos\obj\x86\Debug\ProyectosDiversos.application
+C:\Users\cesar\Desktop\Programacion II\csharp_practica_p2\ProyectoDiversos\ProyectosDiversos\obj\x86\Debug\ProyectoFinal.Form1.resources
+C:\Users\cesar\Desktop\Programacion II\csharp_practica_p2\ProyectoDiversos\ProyectosDiversos\obj\x86\Debug\ProyectoFinal.Form2.resources

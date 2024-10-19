@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 using System.Data.SqlClient;
 using System.Data.SqlTypes;
 using System.Windows.Forms;
+using System.Configuration; // Necesario para leer app.config
 
 namespace ProyectosDiversos
 {
@@ -16,6 +17,7 @@ namespace ProyectosDiversos
 
         public  Conexion() {
             string stringconexion = "server=DESKTOP-MDEV8MC\\SQLEXPRESS;database=p2;Integrated Security=true";
+            // "server=SERVIDORSQL\\SQLEXPRESS;database=p2;User Id=sa;Password=123456;Integrated Security=true";
             conectar = new SqlConnection(stringconexion);
            
         }

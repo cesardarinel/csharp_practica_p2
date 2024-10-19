@@ -7,6 +7,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using ProyectoFinal;
+
 
 namespace ProyectosDiversos
 {
@@ -56,6 +58,14 @@ namespace ProyectosDiversos
         private void radioButton3_CheckedChanged2(object sender, EventArgs e)
         {
 
+        }
+
+        private void radioButton4_CheckedChanged(object sender, EventArgs e)
+        {
+            this.Hide();
+            Form1 calcular = new Form1();
+            calcular.ShowDialog();
+            this.Show();
         }
     }
 }
